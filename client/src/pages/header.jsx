@@ -10,9 +10,9 @@ const Header = () => {
                     </a>
 
                     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-                        <span aria-hidden="true"></span>
-                        <span aria-hidden="true"></span>
-                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true">uno</span>
+                        <span aria-hidden="true">dos</span>
+                        <span aria-hidden="true">tres</span>
                     </a>
                 </div>
 
